@@ -1,2 +1,2 @@
 # Blog-Post
-Learning Redux in state management Project
+Learning Redux state management Project
